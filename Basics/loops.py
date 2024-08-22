@@ -23,3 +23,13 @@ for i in range(5):
         print("*", end= " ")
     print()
 
+
+numbers = [1, 2, 4, 6,]
+
+pi_factor = [3.141516]
+
+final = [i * j for i in numbers for j in pi_factor]
+print(final)
+
+
+
