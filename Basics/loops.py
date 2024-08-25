@@ -31,5 +31,4 @@ pi_factor = [3.141516]
 final = [i * j for i in numbers for j in pi_factor]
 print(final)
 
-
-
+print("im an estupid")
